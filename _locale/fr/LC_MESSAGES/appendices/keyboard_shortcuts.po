@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: MusicBrainz Picard v2.6\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-05-02 14:13-0600\n"
-"PO-Revision-Date: 2021-04-08 16:01-0600\n"
+"POT-Creation-Date: 2021-06-28 15:23-0600\n"
+"PO-Revision-Date: 2021-06-28 15:39-0600\n"
 "Last-Translator: Bob Swift <bswift@rsds.ca>\n"
 "Language: fr\n"
 "Language-Team: \n"
@@ -17,7 +17,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.8.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../appendices/keyboard_shortcuts.rst:14
 msgid ""
@@ -56,8 +56,9 @@ msgid ":kbd:`Ctrl+E`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+E`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Add files"
@@ -68,8 +69,9 @@ msgid ":kbd:`Ctrl+O`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+O`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Save selected files"
@@ -80,8 +82,9 @@ msgid ":kbd:`Ctrl+S`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+S`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Quit Picard"
@@ -92,8 +95,9 @@ msgid ":kbd:`Ctrl+Q`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+Q`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:33
 msgid "Edit"
@@ -108,8 +112,9 @@ msgid ":kbd:`Ctrl+X`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+X`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Paste selected files"
@@ -120,8 +125,9 @@ msgid ":kbd:`Ctrl+V`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+V`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Show info for selected item"
@@ -132,8 +138,9 @@ msgid ":kbd:`Ctrl+I`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+I`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:45
 msgid "View"
@@ -148,10 +155,54 @@ msgid ":kbd:`Ctrl+B`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+B`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
-#: ../../appendices/keyboard_shortcuts.rst:55
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Toggle metadata view"
+msgstr "Basculer l'affichage des métadonnées"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid ":kbd:`Ctrl+Shift+M`"
+msgstr ":kbd:`Ctrl+Shift+M`"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
+msgid ":kbd:`⌘+⇧+M`"
+msgstr ":kbd:`âŒ˜+M`"
+
+#: ../../appendices/keyboard_shortcuts.rst:56
+msgid "Options"
+msgstr "Options"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Open file naming script editor"
+msgstr "Ouvrir l'éditeur de script de nom de fichier"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid ":kbd:`Ctrl+Shift+S`"
+msgstr ":kbd:`Ctrl+Shift+S`"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
+msgid ":kbd:`⌘+⇧+S`"
+msgstr ":kbd:`âŒ˜+M`"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Open profile editor"
+msgstr "Ouvrir l'éditeur de profil"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid ":kbd:`Ctrl+Shift+P`"
+msgstr ":kbd:`Ctrl+Shift+P`"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
+msgid ":kbd:`⌘+⇧+P`"
+msgstr ":kbd:`âŒ˜+M`"
+
+#: ../../appendices/keyboard_shortcuts.rst:67
 msgid "Tools"
 msgstr "Outils"
 
@@ -164,8 +215,9 @@ msgid ":kbd:`Ctrl+R`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+R`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Lookup CD"
@@ -176,8 +228,9 @@ msgid ":kbd:`Ctrl+K`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+K`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Lookup"
@@ -188,8 +241,9 @@ msgid ":kbd:`Ctrl+L`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+L`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Scan"
@@ -200,8 +254,9 @@ msgid ":kbd:`Ctrl+Y`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+Y`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Cluster"
@@ -212,8 +267,9 @@ msgid ":kbd:`Ctrl+U`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+U`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Lookup in browser"
@@ -224,8 +280,9 @@ msgid ":kbd:`Ctrl+Shift+L`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+⇧+L`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Search for similar tracks"
@@ -236,8 +293,9 @@ msgid ":kbd:`Ctrl+T`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+T`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Generate AcoustID fingerprints"
@@ -248,8 +306,9 @@ msgid ":kbd:`Ctrl+Shift+Y`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+⇧+Y`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Tags from file names"
@@ -260,11 +319,12 @@ msgid ":kbd:`Ctrl+Shift+T`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+⇧+T`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
-#: ../../appendices/keyboard_shortcuts.rst:73
+#: ../../appendices/keyboard_shortcuts.rst:85
 msgid "Help"
 msgstr "Aide"
 
@@ -273,8 +333,9 @@ msgid ":kbd:`F1`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+?`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "View activity history"
@@ -285,8 +346,9 @@ msgid ":kbd:`Ctrl+H`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+⇧+H`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "View error/debug log"
@@ -297,10 +359,11 @@ msgid ":kbd:`Ctrl+G`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+G`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
-#: ../../appendices/keyboard_shortcuts.rst:85
+#: ../../appendices/keyboard_shortcuts.rst:97
 msgid "Metadata view"
 msgstr "Vue des métadonnées"
 
@@ -313,8 +376,9 @@ msgid ":kbd:`Alt+Shift+A`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌥+⇧+A`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Edit selected tag"
@@ -325,8 +389,9 @@ msgid ":kbd:`Alt+Shift+E`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌥+⇧+E`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Remove selected tag"
@@ -349,14 +414,15 @@ msgid ":kbd:`Ctrl+C`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+C`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Paste to selected tag value"
 msgstr "Coller à la valeur de la balise sélectionnée"
 
-#: ../../appendices/keyboard_shortcuts.rst:99
+#: ../../appendices/keyboard_shortcuts.rst:111
 msgid "Other"
 msgstr "Autre"
 
@@ -369,8 +435,9 @@ msgid ":kbd:`Ctrl+F`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌘+F`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Remove selected item"
@@ -384,7 +451,7 @@ msgstr ""
 msgid ":kbd:`Del` |br| |nl| :kbd:`⌘+⌫`"
 msgstr ""
 
-#: ../../appendices/keyboard_shortcuts.rst:110
+#: ../../appendices/keyboard_shortcuts.rst:122
 msgid "Script editor"
 msgstr "Éditeur de script"
 
@@ -397,8 +464,9 @@ msgid ":kbd:`Ctrl+Space`"
 msgstr ""
 
 #: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
 msgid ":kbd:`⌃+Space`"
-msgstr ""
+msgstr ":kbd:`âŒ˜+M`"
 
 #: ../../appendices/keyboard_shortcuts.rst:1
 msgid "Use selected completion"
@@ -416,204 +484,150 @@ msgstr "Cacher les achèvements"
 msgid ":kbd:`Esc`"
 msgstr ""
 
-#~ msgid "macOS"
-#~ msgstr "macOS"
+#: ../../appendices/keyboard_shortcuts.rst:134
+msgid "File naming script editor"
+msgstr "Editeur de script pour le nommage des fichiers"
 
-#~ msgid "**File**"
-#~ msgstr "**Fichier**"
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Edit script metadata"
+msgstr "Modifier les métadonnées du script"
 
-#~ msgid "**Edit**"
-#~ msgstr "Modifier"
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid ":kbd:`Ctrl+M`"
+msgstr ":kbd:`Ctrl+M`"
 
-#~ msgid "**View**"
-#~ msgstr "Voir"
+#: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
+msgid ":kbd:`⌘+M`"
+msgstr ":kbd:`âŒ˜+M`"
 
-#~ msgid "**Help**"
-#~ msgstr "**Aide**"
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Save changes to script"
+msgstr "Enregistrer les changements dans le script"
 
-#~ msgid "**Other**"
-#~ msgstr "**Autre**"
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Word wrap on/off"
+msgstr "Activation/désactivation du retour à la ligne"
 
-#~ msgid "Ctrl+E"
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid ":kbd:`Ctrl+Shift+W`"
+msgstr ":kbd:`Ctrl+Shift+W`"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
+msgid ":kbd:`⌘+⇧+W`"
+msgstr ":kbd:`âŒ˜+M`"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Show/hide help tooltips"
+msgstr "Afficher/masquer les infobulles d'aide"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Show/hide documentation"
+msgstr "Afficher/masquer la documentation"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+#, fuzzy
+msgid ":kbd:`⌘+H`"
+msgstr ":kbd:`âŒ˜+M`"
+
+#: ../../appendices/keyboard_shortcuts.rst:1
+msgid "Help (in browser)"
+msgstr "Aide (dans le navigateur)"
+
+#~ msgid ":kbd:`âŒ˜+E`"
 #~ msgstr ""
 
-#~ msgid "⌘+E"
+#~ msgid ":kbd:`âŒ˜+O`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+O"
+#~ msgid ":kbd:`âŒ˜+S`"
 #~ msgstr ""
 
-#~ msgid "⌘+O"
+#~ msgid ":kbd:`âŒ˜+Q`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+S"
+#~ msgid ":kbd:`âŒ˜+X`"
 #~ msgstr ""
 
-#~ msgid "⌘+S"
+#~ msgid ":kbd:`âŒ˜+V`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+Q"
+#~ msgid ":kbd:`âŒ˜+I`"
 #~ msgstr ""
 
-#~ msgid "⌘+Q"
+#~ msgid ":kbd:`âŒ˜+B`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+X"
+#~ msgid ":kbd:`âŒ˜+â‡§+M`"
+#~ msgstr ":kbd:`âŒ˜+â‡§+M`"
+
+#~ msgid ":kbd:`âŒ˜+â‡§+S`"
+#~ msgstr ":kbd:`âŒ˜+â‡§+S`"
+
+#~ msgid ":kbd:`âŒ˜+â‡§+P`"
+#~ msgstr ":kbd:`âŒ˜+â‡§+P`"
+
+#~ msgid ":kbd:`âŒ˜+R`"
 #~ msgstr ""
 
-#~ msgid "⌘+X"
+#~ msgid ":kbd:`âŒ˜+K`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+V"
+#~ msgid ":kbd:`âŒ˜+L`"
 #~ msgstr ""
 
-#~ msgid "⌘+V"
+#~ msgid ":kbd:`âŒ˜+Y`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+I"
+#~ msgid ":kbd:`âŒ˜+U`"
 #~ msgstr ""
 
-#~ msgid "⌘+I"
+#~ msgid ":kbd:`âŒ˜+â‡§+L`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+B"
+#~ msgid ":kbd:`âŒ˜+T`"
 #~ msgstr ""
 
-#~ msgid "⌘+B"
+#~ msgid ":kbd:`âŒ˜+â‡§+Y`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+Shift+M"
+#~ msgid ":kbd:`âŒ˜+â‡§+T`"
 #~ msgstr ""
 
-#~ msgid "⌘+⇧+M"
+#~ msgid ":kbd:`âŒ˜+?`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+R"
+#~ msgid ":kbd:`âŒ˜+â‡§+H`"
 #~ msgstr ""
 
-#~ msgid "⌘+R"
+#~ msgid ":kbd:`âŒ˜+G`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+K"
+#~ msgid ":kbd:`âŒ¥+â‡§+A`"
 #~ msgstr ""
 
-#~ msgid "⌘+K"
+#~ msgid ":kbd:`âŒ¥+â‡§+E`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+L"
+#~ msgid ":kbd:`âŒ¥+â‡§+R` |br| |nl| :kbd:`Del` |br| |nl| :kbd:`âŒ˜+âŒ«`"
 #~ msgstr ""
 
-#~ msgid "⌘+L"
+#~ msgid ":kbd:`âŒ˜+C`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+Y"
+#~ msgid ":kbd:`âŒ˜+F`"
 #~ msgstr ""
 
-#~ msgid "⌘+Y"
+#~ msgid ":kbd:`Del` |br| |nl| :kbd:`âŒ˜+âŒ«`"
 #~ msgstr ""
 
-#~ msgid "Ctrl+U"
+#~ msgid ":kbd:`âŒƒ+Space`"
 #~ msgstr ""
 
-#~ msgid "⌘+U"
-#~ msgstr ""
+#~ msgid ":kbd:`âŒ˜+â‡§+W`"
+#~ msgstr ":kbd:`âŒ˜+â‡§+W`"
 
-#~ msgid "Ctrl+Shift+L"
-#~ msgstr ""
-
-#~ msgid "⌘+⇧+L"
-#~ msgstr ""
-
-#~ msgid "Ctrl+T"
-#~ msgstr ""
-
-#~ msgid "⌘+T"
-#~ msgstr ""
-
-#~ msgid "Ctrl+Shift+Y"
-#~ msgstr ""
-
-#~ msgid "⌘+⇧+Y"
-#~ msgstr ""
-
-#~ msgid "Ctrl+Shift+T"
-#~ msgstr ""
-
-#~ msgid "⌘+⇧+T"
-#~ msgstr ""
-
-#~ msgid "F1"
-#~ msgstr ""
-
-#~ msgid "⌘+?"
-#~ msgstr ""
-
-#~ msgid "Ctrl+H"
-#~ msgstr ""
-
-#~ msgid "⌘+⇧+H"
-#~ msgstr ""
-
-#~ msgid "Ctrl+G"
-#~ msgstr ""
-
-#~ msgid "⌘+G"
-#~ msgstr ""
-
-#~ msgid "Alt+Shift+A"
-#~ msgstr ""
-
-#~ msgid "⌥+⇧+A"
-#~ msgstr ""
-
-#~ msgid "Alt+Shift+E"
-#~ msgstr ""
-
-#~ msgid "⌥+⇧+E"
-#~ msgstr ""
-
-#~ msgid "Alt+Shift+R |br| |nl| Del"
-#~ msgstr ""
-
-#~ msgid "⌥+⇧+R |br| |nl| Del |br| |nl| ⌘+⌫"
-#~ msgstr ""
-
-#~ msgid "Ctrl+C"
-#~ msgstr ""
-
-#~ msgid "⌘+C"
-#~ msgstr ""
-
-#~ msgid "Ctrl+F"
-#~ msgstr ""
-
-#~ msgid "⌘+F"
-#~ msgstr ""
-
-#~ msgid "Del"
-#~ msgstr ""
-
-#~ msgid "Del |br| |nl| ⌘+⌫"
-#~ msgstr ""
-
-#~ msgid "Ctrl+Space"
-#~ msgstr ""
-
-#~ msgid "⌃+Space"
-#~ msgstr ""
-
-#~ msgid "Tab |br| |nl| Return"
-#~ msgstr ""
-
-#~ msgid "Esc"
-#~ msgstr ""
-
-#~ msgid "Toggle metadata view"
-#~ msgstr "Basculer l'affichage des métadonnées"
-
-#~ msgid ":kbd:`Ctrl+Shift+M`"
-#~ msgstr ""
-
-#~ msgid ":kbd:`⌘+⇧+M`"
-#~ msgstr ""
+#~ msgid ":kbd:`âŒ˜+H`"
+#~ msgstr ":kbd:`âŒ˜+H`"
 
